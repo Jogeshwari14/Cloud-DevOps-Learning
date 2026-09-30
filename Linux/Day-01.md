@@ -1,15 +1,15 @@
 # Day 01 - Linux Fundamental
 
 ## 1. What is Linux?
-   -Linux is the Kernel not O.S.
-   -Linux is not a UNIX derivative, It was written from scratch.
-   -A Linux distribution is the linux kernel and a collection of software that together, create an O.S.
+   - Linux is the Kernel not O.S.
+   - Linux is not a UNIX derivative, It was written from scratch.
+   - A Linux distribution is the linux kernel and a collection of software that together, create an O.S.
 
 ## 2. Linux Features/Advantages
-   -Open Source,
-   -Secure,
-   -Simplified updates for all installed packages.,
-   -Light Weight.
+   - Open Source,
+   - Secure,
+   - Simplified updates for all installed packages.,
+   - Light Weight.
 
 ## 3. Linux Architecture                 Windows Architecture  
       User                                      User
@@ -20,8 +20,8 @@
        |                                         |
     Hardware                                  Hardware
 
-    -User Interact with Shell
-    -Kernel Interact with Hardware
+    - User Interact with Shell
+    - Kernel Interact with Hardware
 ## 4. Linux File System Hierarchy
                                      /- Top Level Root Directory
             _________________________ |________________________         
