@@ -37,3 +37,10 @@
 - **/sbin** - It contains commands used by only root user.
 - **/opt**  - Optional application software installed in this directory.
 - **/dev**  - It contains essential device files. This Include Terminal, Dences, USB or any dence attached to the system.
+
+## Key Takeaways
+
+- Understood what Linux is.
+- Learned the major features and advantages of Linux.
+- Understood the basic Linux architecture.
+- Learned about the Linux File System Hierarchy.
