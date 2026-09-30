@@ -28,12 +28,12 @@
            |       |       |     |     |      |     |     |      |
          /root   /home   /boot  /etc  /usr   /bin /sbin  /opt  /dev
   
-- /root - It is home directory for Root user.
-- /home - It is home directory for other user.
-- /boot - It contains the bootable files.
-- /etc  - It contains all configuration files.
-- /usr  - By default software are installed in this directory.
-- /bin  - It contains commands used by all users including root user.
-- /sbin - It contains commands used by only root user.
-- /opt  - Optional application software installed in this directory.
-- /dev  - It contains essential device files. This Include Terminal, Dences, USB or any dence attached to the system.
+- **/root** - It is home directory for Root user.
+- **/home** - It is home directory for other user.
+- **/boot** - It contains the bootable files.
+- **/etc**  - It contains all configuration files.
+- **/usr**  - By default software are installed in this directory.
+- **/bin**  - It contains commands used by all users including root user.
+- **/sbin** - It contains commands used by only root user.
+- **/opt**  - Optional application software installed in this directory.
+- **/dev**  - It contains essential device files. This Include Terminal, Dences, USB or any dence attached to the system.
