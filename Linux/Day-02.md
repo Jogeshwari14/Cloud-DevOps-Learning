@@ -1,4 +1,4 @@
-# Linux Day 02 File and Directory Management
+# Day 02 File and Directory Management
 
 ## How to Create a File    
 
